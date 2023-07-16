@@ -1,0 +1,125 @@
+.body {
+  font-family: 'Roboto', Helvetica, sans-serif;
+  color: #666;
+
+  margin: 0;
+  padding-top: 52px;
+  padding-left: calc(50% - 235px);
+  padding-right: calc(50% - 235px);
+  padding-bottom: 52px;
+}
+
+.header {
+  margin-bottom: 28px;
+}
+
+.header-title {
+  font-size: 20px;
+  line-height: 1.4;
+  font-weight: 700;
+  color: #6d64e8;
+
+  margin: 0 0 8px;
+}
+
+.address {
+  font-size: 10px;
+  line-height: 1;
+}
+
+.address-detail {
+  margin: 0;
+}
+
+.address-tel {
+  font-style: normal;
+  text-decoration: none;
+  color: inherit;
+}
+
+.main-title {
+  margin: 0 0 28px;
+}
+
+.main-title-text {
+  font-size: 34px;
+  line-height: 1;
+  font-weight: 400;
+  color: #293592;
+}
+
+.main-title-date {
+  display: block;
+
+  font-size: 11px;
+  line-height: 1.4;
+  color: #e43994;
+
+  margin-top: 10px;
+}
+
+.overview {
+  margin-bottom: 32px;
+}
+
+.overview-title {
+  font-size: 21px;
+  line-height: 1;
+  font-weight: 400;
+  text-decoration: underline;
+  color: #000;
+
+  margin: 0 0 12px;
+}
+
+.overview-text,
+.additional-text {
+  font-size: 11px;
+  line-height: 1.4;
+}
+
+.overview-text {
+  margin: 0 0 16px;
+}
+
+.header3 {
+  font-size: 16px;
+  line-height: 1;
+  font-weight: 400;
+  color: #000;
+
+  margin: 0 0 8px;
+}
+
+.header4 {
+  font-size: 12px;
+  line-height: 1;
+  font-weight: 700;
+  color: #e43994;
+
+  margin: 0 0 8px;
+}
+
+.overview-text-italic,
+.header3-italic {
+  font-style: italic;
+}
+
+.additional-title {
+  font-size: 21px;
+  line-height: 1;
+  font-weight: 400;
+  color: #000;
+  text-align: right;
+
+  margin: 0 0 12px;
+}
+
+.additional-text {
+  text-align: right;
+  margin: 0;
+}
+
+.additional-text:not(:last-child) {
+  margin-bottom: 16px;
+}
